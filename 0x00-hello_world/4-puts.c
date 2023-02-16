@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Check the code
+ * main - will print a line of code using puts
  *
- * Return : Always 0 (success)
+ * Return :  0
  */
 int main(void)
 {
