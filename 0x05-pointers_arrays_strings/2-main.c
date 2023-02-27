@@ -1,11 +1,13 @@
 #include "main.h"
 #include <stdio.h>
-
 /**
- * main - check the code
- *
- * Return: Always 0.
- */
+  * _strcpy - Copy a string
+  * @dest: Destination value
+  * @src: Source value
+  *
+  * Return: the pointer to dest
+  */
+
 int main(void)
 {
 	char *str;
